@@ -1,1 +1,23 @@
+h1 {
+    color: green;
+    margin: 2rem auto;
+}
 
+p {
+    color: black;
+    background-color: aquamarine;
+    height: 5rem;
+    width: auto;
+    text-align: center;
+    margin: 0;
+}
+
+div {
+    color: red;
+    font-size: xx-large;
+    text-align: center;
+    height: 5rem;
+    width: auto;
+    background-color: aquamarine;
+    margin: 0;
+}
