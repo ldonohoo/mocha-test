@@ -1,1 +1,15 @@
 
+{
+  "name": "mocha-test-pgm",
+  "version": "1.0.0",
+  "description": "testing quick pgm with mocha",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "lisa",
+  "license": "ISC"
+}
